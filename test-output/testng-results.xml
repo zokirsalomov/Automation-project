@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13474" started-at="2018-06-25T04:09:26Z" finished-at="2018-06-25T04:09:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13474" started-at="2018-06-25T04:09:26Z" finished-at="2018-06-25T04:09:39Z">
+      <class name="com.jobApplication.JobApplicationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jobApplication.JobApplicationTest@61b838f2]" name="setUp" is-config="true" duration-ms="6312" started-at="2018-06-25T04:09:26Z" finished-at="2018-06-25T04:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToHomePage()[pri:0, instance:com.jobApplication.JobApplicationTest@61b838f2]" name="navigateToHomePage" is-config="true" duration-ms="2017" started-at="2018-06-25T04:09:32Z" finished-at="2018-06-25T04:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method status="PASS" signature="fullNameEmptyTest()[pri:0, instance:com.jobApplication.JobApplicationTest@61b838f2]" name="fullNameEmptyTest" duration-ms="292" started-at="2018-06-25T04:09:34Z" finished-at="2018-06-25T04:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullNameEmptyTest -->
+        <test-method status="PASS" signature="navigateToHomePage()[pri:0, instance:com.jobApplication.JobApplicationTest@61b838f2]" name="navigateToHomePage" is-config="true" duration-ms="446" started-at="2018-06-25T04:09:34Z" finished-at="2018-06-25T04:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method status="PASS" signature="submitFullApplication()[pri:0, instance:com.jobApplication.JobApplicationTest@61b838f2]" name="submitFullApplication" duration-ms="4304" started-at="2018-06-25T04:09:35Z" finished-at="2018-06-25T04:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFullApplication -->
+      </class> <!-- com.jobApplication.JobApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
